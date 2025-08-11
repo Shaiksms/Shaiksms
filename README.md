@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Technical Lab Coordinator.
+- 🔭 I’m currently working as Technical Lab Coordinator at Vector India Pvt Ltd.
 - 🌱 I’m currently learning Embedded Systems.
 - 👯 I’m looking to collaborate with good organizations to work on real time projects.
 - 🤔 I’m looking for help with any referrals from organization if they have any embedded fresher vacancies.
